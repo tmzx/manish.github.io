@@ -47,19 +47,7 @@ This is a personal project and is not open for contributions. However, feel free
 
 
 ## Contact
-If you have any questions or feedback, feel free to connect with me:
-GitHub: [tmzx](https://github.com/tmzx)  
-
----
-
-Feel free to update this file to reflect any future changes or enhancements to your website. Let me know if you need assistance customizing it further!
-
-
-
-
-
-
-
+If you have any questions or feedback, feel free to connect with me.
 
 I got this website template from:
 Massively by HTML5 UP
