@@ -1,32 +1,66 @@
+# Manish Tamang Portfolio Website
+
+Welcome to my personal portfolio website! This website showcases my skills, projects, and professional journey in a visually appealing and organized format.
+
+## Website URL
+[Visit the Website](https://tmzx.github.io/manish.github.io/)
+
+---
+
+## **Features**
+- **About Me**: Learn more about my background, skills, and aspirations.
+- **Projects**: Explore my portfolio of projects, including descriptions, technologies used, and live demos.
+- **Contact**: Easily get in touch with me through the contact form or provided links.
+
+---
+
+## **Technologies Used**
+- **HTML**: For creating the structure of the website.
+- **CSS**: For styling and layout to ensure a responsive and modern design.
+- **JavaScript**: For interactive elements and functionality.
+
+---
+
+## **How to Use**
+1. Visit the live website using the URL above.
+2. Navigate through the sections to learn more about me and my work.
+3. Use the contact form to reach out with inquiries or opportunities.
+
+---
+
+## **How to Run Locally**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tmzx/manish.github.io.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd manish.github.io
+   ```
+3. Open the `index.html` file in your browser.
+
+---
+
+## **Contributions**
+This is a personal project and is not open for contributions. However, feel free to explore, fork, or use it as inspiration for your own portfolio.
+
+---
+
+## **Contact**
+If you have any questions or feedback, feel free to connect with me:
+- **GitHub**: [tmzx](https://github.com/tmzx)  
+
+---
+
+Feel free to update this file to reflect any future changes or enhancements to your website. Let me know if you need assistance customizing it further!
+
+
+
+
+
+
+
+
+I got this website template from:
 Massively by HTML5 UP
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
